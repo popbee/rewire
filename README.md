@@ -1,6 +1,8 @@
 rewire
 ======
-**Easy monkey-patching for node.js unit tests**
+**Easy monkey-patching for node.js without ESLint dependency**
+
+(Note the following is the original readme, to use this version, you'd have to point directly to the github repo)
 
 [![](https://img.shields.io/npm/v/rewire.svg)](https://www.npmjs.com/package/rewire)
 [![](https://img.shields.io/npm/dm/rewire.svg)](https://www.npmjs.com/package/rewire)

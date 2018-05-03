@@ -39,7 +39,5 @@
     "test": "mocha -R spec",
     "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha"
   },
-  "dependencies": {
-    "eslint": "^4.19.1"
-  }
+  "dependencies": {}
 }
